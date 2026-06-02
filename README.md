@@ -32,27 +32,13 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo web, lógica de pr
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🚀 Proyectos
 
-### 🧾 Sistema de Facturación
+| Proyecto                  | Descripción                                                          | Tecnologías                                     | Estado           | Enlace            |
+| ------------------------- | -------------------------------------------------------------------- | ----------------------------------------------- | ---------------- | ----------------- |
+| 🧾 Sistema de Facturación | Sistema para la gestión de ventas, clientes, productos e inventario. | Node.js, Express, MySQL, React.js, Tailwind CSS | 🚧 En desarrollo | En proceso        |
+| Próximamente              | -                                                                    | -                                               | -                | -                 |
 
-**Descripción:**  
-Sistema de facturación desarrollado como proyecto académico, orientado a la gestión de ventas, productos y clientes.
-
-**Funcionalidades:**
-- Registro de productos  
-- Gestión de clientes  
-- Registro de ventas  
-- Control de inventario  
-- Generación de facturas  
-
-**Tecnologías utilizadas:**
-- Node.js + Express  
-- MySQL
-- React.js con Tailwind 
-
-**Estado del proyecto:**  
-En desarrollo / versión funcional básica  
 
 ---
 
